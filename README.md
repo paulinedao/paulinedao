@@ -1,5 +1,6 @@
 ### Hi there, I'm Pauline 👋
 
+
 📍 Barcelona
 🔗 LinkedIn: paulinedao
 👨‍💻 GitHub: paulinedao
