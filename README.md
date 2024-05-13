@@ -1,33 +1,37 @@
 ### Hi there, I'm Pauline 👋
 
-<!--
-**paulinedao/paulinedao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 📍 Barcelona
-🔗 LinkedIn: paulinedao
-👨‍💻 GitHub: paulinedao
 
-About Me 🌐
+🔗 LinkedIn: [paulinedao](https://www.linkedin.com/in/paulinedao/)
+
+👨‍💻 GitHub: [paulinedao](https://github.com/paulinedao)
+
+
+#### About Me 🌐
 
 Senior scientist with a PhD in life sciences now doing data science!
 
-Professional Highlights 🌟
 
-    AZ trainee programm (2022-2023)
-    PhD in Life Sciences (2018-2022)
+#### Professional Highlights 🌟
 
-Education 🎓
+- AZ trainee program (2022-2023)
+- PhD in Life Sciences (2018-2022)
 
-    PhD in Life Sciences, University of Vienna
-    Magistère in Genetics, Université Paris Diderot
 
-Certifications 📜
+#### Education 🎓
 
-    Coursera: Tools for Data Science
-    Edx: Python for AI and Development, Python for Data Science, Analyzing data with Python
-    
-Courses
+- PhD in Life Sciences, University of Vienna
+- Magistère in Genetics, Université Paris Diderot
 
-    Natural Language Processing, University of Barcelona
-    SQL for Data Science
-    Machine Learning 
+
+#### Certifications 📜
+
+- Coursera: Tools for Data Science
+- Edx: Python for AI and Development, Python for Data Science, Analyzing data with Python
+
+
+#### Courses
+
+- Natural Language Processing, University of Barcelona
+- SQL for Data Science
+- Machine Learning 
