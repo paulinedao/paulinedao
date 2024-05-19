@@ -27,7 +27,7 @@ Senior scientist with a PhD in life sciences now doing data science!
 #### Certifications 📜
 
 - Coursera: Tools for Data Science
-- Edx: Python for AI and Development, Python for Data Science, Analyzing data with Python
+- Edx: Python for AI and Development, Python for Data Science, Analyzing data with Python, Visualizing data with Python
 
 
 #### Courses
