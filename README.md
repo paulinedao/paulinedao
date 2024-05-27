@@ -2,7 +2,7 @@
 
 📍 Barcelona
 
-🔗 LinkedIn: [paulinedao](https://www.linkedin.com/in/paulinedao/)
+🔗 LinkedIn: [paulinedao](https://www.linkedin.com/in/pauline-dao)
 
 👨‍💻 GitHub: [paulinedao](https://github.com/paulinedao)
 
