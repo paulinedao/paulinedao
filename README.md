@@ -34,4 +34,10 @@ Senior scientist with a PhD in life sciences now doing data science!
 
 - Natural Language Processing, University of Barcelona
 - SQL for Data Science
-- Machine Learning 
+- Machine Learning Specialization
+
+#### Volunteering 
+- [CodeWomen+ Barcelona](https://codewomen.plus/en/): 
+"The CodeWomen project aims to contribute to the transformation of the technology sector to make it more inclusive and diverse, by building a community of women+, 'by women+ and for women+', that implements orientation, training, and prospecting activities following a community and camaraderie."
+
+  
