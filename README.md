@@ -26,7 +26,7 @@ Senior scientist with a PhD in life sciences now doing data science!
 
 #### Certifications 📜
 
-- Coursera: Tools for Data Science
+- Coursera: Tools for Data Science, Machine learning Specialization: Regression and Classification
 - Edx: Python for AI and Development, Python for Data Science, Analyzing data with Python, Visualizing data with Python
 
 
@@ -34,7 +34,7 @@ Senior scientist with a PhD in life sciences now doing data science!
 
 - Natural Language Processing, University of Barcelona
 - SQL for Data Science
-- Machine Learning Specialization
+- Machine Learning Specialization: Advanced Learnings Algorithms
 
 #### Volunteering 
 - [CodeWomen+ Barcelona](https://codewomen.plus/en/): 
