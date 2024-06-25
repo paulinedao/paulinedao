@@ -14,7 +14,9 @@ Senior scientist with a PhD in life sciences now doing data science!
 #### Collaboration 👯
 Looking to collaborate on: Projects involving data analysis, visualization, and model training, preferentially on topics about medicine but not restricted to that. I'm eager to contribute to projects where I can apply and enhance my skills in Python and R.
 The best way to reach out to me is on [LinkedIn](https://www.linkedin.com/in/pauline-dao). 
+Languages for collaborations are Spanish, English, French or German but reports in github are written in English. 
 I am currently collaborating with a Data Analyst on a diabetes project :)
+
 
 
 #### Professional Highlights 🌟
