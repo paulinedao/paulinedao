@@ -20,7 +20,7 @@ Languages for collaborations are Spanish, English, French or German but reports 
 
 
 #### Professional Highlights 🌟
-
+- Senior Data Developer at AZ (present)
 - AZ trainee program (2022-2023)
 - PhD in Life Sciences (2018-2022)
 
