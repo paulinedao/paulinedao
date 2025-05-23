@@ -21,30 +21,6 @@ Senior scientist with a PhD in life sciences now doing data science!
 - PhD in Life Sciences (2018-2022)
 
 
-#### Education 🎓
-
-- PhD in Life Sciences, University of Vienna
-- Magistère in Genetics, Université Paris Diderot
-
-
-#### Certifications 📜
-
-- Coursera:
-    - Tools for Data Science
-    -  Machine learning Specialization: Regression and Classification
-    -  Machine learning Specialization: Advanced Learning Algorithm
-- Edx:
-    - Python for AI and Development
-    - Python for Data Science
-    - Analyzing data with Python
-    - Visualizing data with Python
-
-
-#### Courses
-
-- Natural Language Processing, University of Barcelona
-- SQL for Data Science
-
   
 #### Collaboration 👯
 Looking to collaborate on: Projects involving data analysis, visualization, and model training, preferentially on topics about medicine but not restricted to that. I'm eager to contribute to projects where I can apply and enhance my skills in Python and R.
@@ -53,7 +29,7 @@ Languages for collaborations are Spanish, English, French or German but reports 
 
 
 #### Volunteering 
-- [CodeWomen+ Barcelona](https://codewomen.plus/en/): 
+[CodeWomen+ Barcelona](https://codewomen.plus/en/): 
 "The CodeWomen project aims to contribute to the transformation of the technology sector to make it more inclusive and diverse, by building a community of women+, 'by women+ and for women+', that implements orientation, training, and prospecting activities following a community and camaraderie."
 
   
