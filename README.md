@@ -4,15 +4,10 @@
 
 🔗 LinkedIn: [paulinedao](https://www.linkedin.com/in/pauline-dao)
 
-👨‍💻 GitHub: [paulinedao](https://github.com/paulinedao)
-
 
 #### About Me 🌐
 
-Senior scientist with a PhD in life sciences now doing data science!
-
-
-
+Data scientist with a background in neuroscience.
 
 
 #### Professional Highlights 🌟
@@ -20,10 +15,19 @@ Senior scientist with a PhD in life sciences now doing data science!
 - AZ trainee program (2022-2023)
 - PhD in Life Sciences (2018-2022)
 
+### Projects 📖
+- [Heart disease](https://github.com/paulinedao/heart_disease): A data preparation project using the Cleveland Heart Disease Dataset
+- [Sentiment Analysis App](https://github.com/paulinedao/sentiment_analysis_app): An app to analyze sentiment and give the dominant emotion of a text, deployed using Flask web app.
+- [Recipe Whisperer](https://github.com/paulinedao/recipe-whisperer): (*Coming Soon*) A RAG chatbot to help you find vegan recipes based on ingredients availability. 
+
+
+Workshops:
+- [Git workshop](https://github.com/paulinedao/git-workshop): Learn how to use git with the coding "cadavre exquis", a collaborative coding activity.
+- [SQL workshop](https://github.com/paulinedao/SQL-workshop_data_preparation): SQL workshop from beginner to intermediate level, with Kahoot! questions to test students.
 
   
 #### Collaboration 👯
-Looking to collaborate on: Projects involving data analysis, visualization, and model training, preferentially on topics about medicine but not restricted to that. I'm eager to contribute to projects where I can apply and enhance my skills in Python and R.
+Looking to collaborate on: Projects involving machine learning, NLP, and AI agents.
 The best way to reach out to me is on [LinkedIn](https://www.linkedin.com/in/pauline-dao). 
 Languages for collaborations are Spanish, English, French or German but reports in github are written in English. 
 
@@ -31,5 +35,6 @@ Languages for collaborations are Spanish, English, French or German but reports 
 #### Volunteering 
 [CodeWomen+ Barcelona](https://codewomen.plus/en/): 
 "The CodeWomen project aims to contribute to the transformation of the technology sector to make it more inclusive and diverse, by building a community of women+, 'by women+ and for women+', that implements orientation, training, and prospecting activities following a community and camaraderie."
+
 
   
