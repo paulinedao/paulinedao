@@ -23,7 +23,7 @@ Data scientist with a background in neuroscience.
 
 Workshops:
 - [Git workshop](https://github.com/paulinedao/git-workshop): Learn how to use git with the coding "cadavre exquis", a collaborative coding activity.
-- [SQL workshop](https://github.com/paulinedao/SQL-workshop_data_preparation): SQL workshop from beginner to intermediate level, with Kahoot! questions to test students.
+- [SQL workshop](https://github.com/YaniaNada/SQL-workshop_data_preparation): SQL workshop from beginner to intermediate level, with Kahoot! questions to test students.
 
   
 #### Collaboration 👯
