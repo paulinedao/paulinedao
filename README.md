@@ -19,6 +19,7 @@ Data scientist with a background in neuroscience.
 - [Heart disease](https://github.com/paulinedao/heart_disease): A data preparation project using the Cleveland Heart Disease Dataset
 - [Sentiment Analysis App](https://github.com/paulinedao/sentiment_analysis_app): An app to analyze sentiment and give the dominant emotion of a text, deployed using Flask web app.
 - [Agentic RAG](https://huggingface.co/spaces/paulinedao/agentic_RAG/tree/main): An AI Agent using RAG to help with the organization of a fictive gala using LangGraph and Gradio app.
+- [GAIA Agent](https://huggingface.co/spaces/paulinedao/Final-Assignment-Agent/tree/main): An agent that can answer the GAIA benchmark level 1 questions to evaluate next-generation LLMs.
 - [Recipe Whisperer](https://github.com/paulinedao/recipe-whisperer): (*Coming Soon*) A RAG chatbot to help you find vegan recipes based on ingredients availability. 
 
 
