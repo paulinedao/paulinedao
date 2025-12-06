@@ -36,8 +36,11 @@ Languages for collaborations are Spanish, English, French or German but reports 
 
 
 #### Volunteering 
-[CodeWomen+ Barcelona](https://codewomen.plus/en/): 
-"The CodeWomen project aims to contribute to the transformation of the technology sector to make it more inclusive and diverse, by building a community of women+, 'by women+ and for women+', that implements orientation, training, and prospecting activities following a community and camaraderie."
+[CodeWomen+ Barcelona](https://codewomen.plus/en/) activities:
+- Mentoring for career development
+- Coding challenges mentor for Python
+- Git workshop
+- SQL workshop
 
 
   
