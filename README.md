@@ -28,13 +28,6 @@ Workshops:
 - [Git workshop](https://github.com/paulinedao/git-workshop): Learn how to use git with the coding "cadavre exquis", a collaborative coding activity.
 - [SQL workshop](https://github.com/YaniaNada/SQL-workshop_data_preparation): SQL workshop from beginner to intermediate level, with Kahoot! questions to test students.
 
-  
-#### Collaboration 👯
-Looking to collaborate on: Projects involving machine learning, NLP, and AI agents.
-The best way to reach out to me is on [LinkedIn](https://www.linkedin.com/in/pauline-dao). 
-Languages for collaborations are Spanish, English, French or German but reports in github are written in English. 
-
-
 #### Volunteering 
 [CodeWomen+ Barcelona](https://codewomen.plus/en/) activities:
 - Mentoring for career development
