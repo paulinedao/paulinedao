@@ -23,6 +23,7 @@ Data scientist with a background in neuroscience.
 - [GAIA Agent](https://huggingface.co/spaces/paulinedao/Final-Assignment-Agent/tree/main): An agent that can answer the GAIA benchmark level 1 questions to evaluate next-generation LLMs.
 - [Recipe Whisperer](https://github.com/paulinedao/recipe-whisperer): (*Coming Soon*) A RAG chatbot to help you find vegan recipes based on ingredients availability.
 - [Chicago Data SQL Analysis](https://github.com/paulinedao/sql-chicago-data): Analysis of Chicago schools and crime data using SQL
+- [Hiragana CNN](https://github.com/paulinedao/hiragana-cnn): Hiragana prediction using convolutional neural network and dash app for the interface
 
 
 Workshops:
