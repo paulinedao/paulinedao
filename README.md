@@ -24,7 +24,7 @@ Data scientist with a background in neuroscience.
 - [Recipe Whisperer](https://github.com/paulinedao/recipe-whisperer): (*Coming Soon*) A RAG chatbot to help you find vegan recipes based on ingredients availability.
 - [Chicago Data SQL Analysis](https://github.com/paulinedao/sql-chicago-data): Analysis of Chicago schools and crime data using SQL
 - [Hiragana CNN](https://github.com/paulinedao/hiragana-cnn): Hiragana prediction using convolutional neural network and dash app for the interface
-
+- [JLPT clustering](https://github.com/paulinedao/jlpt-clustering): Japanese words clustering using Bert embedding model, HDBSCAN and UMAP for clustering and dash for the interface.
 
 Workshops:
 - [Git workshop](https://github.com/paulinedao/git-workshop): Learn how to use git with the coding "cadavre exquis", a collaborative coding activity.
