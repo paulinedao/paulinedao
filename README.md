@@ -25,7 +25,7 @@ Data scientist with a background in neuroscience.
 - [Chicago Data SQL Analysis](https://github.com/paulinedao/sql-chicago-data): Analysis of Chicago schools and crime data using SQL
 - [Hiragana CNN](https://github.com/paulinedao/hiragana-cnn): Hiragana prediction using convolutional neural network and dash app for the interface
 - [JLPT clustering](https://github.com/paulinedao/jlpt-clustering): Japanese words clustering using Bert embedding model, HDBSCAN and UMAP for clustering and dash for the interface.
-- [Diabetes predictor](https://github.com/paulinedao/ml-diabetes.git): Diabetes predictor app using logistic regression and fastAPI.
+- [Diabetes predictor](https://github.com/paulinedao/ml-diabetes.git): Diabetes predictor app using logistic regression and fastAPI. Deployed on HuggingFace space: [diabetes-predictor](https://huggingface.co/spaces/paulinedao/diabetes-predictor).
 
 Workshops:
 - [Git workshop](https://github.com/paulinedao/git-workshop): Learn how to use git with the coding "cadavre exquis", a collaborative coding activity.
